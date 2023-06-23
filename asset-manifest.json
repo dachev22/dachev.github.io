@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dachev.github.io/static/css/main.bf76802f.css",
-    "main.js": "/dachev.github.io/static/js/main.5b2d9fa5.js",
-    "static/js/787.7636d92e.chunk.js": "/dachev.github.io/static/js/787.7636d92e.chunk.js",
-    "index.html": "/dachev.github.io/index.html",
-    "main.bf76802f.css.map": "/dachev.github.io/static/css/main.bf76802f.css.map",
-    "main.5b2d9fa5.js.map": "/dachev.github.io/static/js/main.5b2d9fa5.js.map",
-    "787.7636d92e.chunk.js.map": "/dachev.github.io/static/js/787.7636d92e.chunk.js.map"
+    "main.css": "/dachev22.github.io/static/css/main.bf76802f.css",
+    "main.js": "/dachev22.github.io/static/js/main.35525a9e.js",
+    "static/js/787.7636d92e.chunk.js": "/dachev22.github.io/static/js/787.7636d92e.chunk.js",
+    "index.html": "/dachev22.github.io/index.html",
+    "main.bf76802f.css.map": "/dachev22.github.io/static/css/main.bf76802f.css.map",
+    "main.35525a9e.js.map": "/dachev22.github.io/static/js/main.35525a9e.js.map",
+    "787.7636d92e.chunk.js.map": "/dachev22.github.io/static/js/787.7636d92e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf76802f.css",
-    "static/js/main.5b2d9fa5.js"
+    "static/js/main.35525a9e.js"
   ]
 }
