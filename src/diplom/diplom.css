@@ -1,0 +1,35 @@
+.gener{
+    font-family: "Times New Roman",sans-serif;
+    padding: 50px;
+}
+.inf{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box{
+    margin: 10px;
+    font-family: "Times New Roman",sans-serif;
+    font-size: 27px;
+    border: 2px solid #706f6f;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.linkis{
+    font-family: "Times New Roman",sans-serif;
+    font-size: 27px;
+
+}
+.ln{
+    font-family: "Times New Roman",sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.l{
+    display: flex;
+    flex-direction: row;
+}
